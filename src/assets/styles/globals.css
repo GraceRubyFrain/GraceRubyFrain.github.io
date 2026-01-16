@@ -1,0 +1,11 @@
+@font-face {
+  font-family: "Fornire";
+  src: local("Fornire"), url(./Fornire-Light.otf) format("opentype");
+}
+
+body {
+    font-family: "Fornire";
+    line-height: 1.6;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
