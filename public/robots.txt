@@ -1,5 +1,0 @@
-User-agent: *
-Disallow: /node_modules/
-Disallow: /dist/
-Allow: /
-Sitemap: https://gracerubyfrain.github.io/sitemap.xml
